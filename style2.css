@@ -35,16 +35,16 @@ body {
     animation-timing-function: linear;
 }
 
-.word span:nth-child(1)  { animation-delay: 0s; }
-.word span:nth-child(2)  { animation-delay: 0.1s; }
-.word span:nth-child(3)  { animation-delay: 0.2s; }
-.word span:nth-child(4)  { animation-delay: 0.3s; }
-.word span:nth-child(5)  { animation-delay: 0.4s; }
-.word span:nth-child(6)  { animation-delay: 0.5s; }
-.word span:nth-child(7)  { animation-delay: 0.6s; }
-.word span:nth-child(8)  { animation-delay: 0.7s; }
-.word span:nth-child(9)  { animation-delay: 0.8s; }
-.word span:nth-child(10) { animation-delay: 0.9s; }
+.pozdrav span:nth-child(1)  { animation-delay: 0s; }
+.pozdrav span:nth-child(2)  { animation-delay: 0.1s; }
+.pozdrav span:nth-child(3)  { animation-delay: 0.2s; }
+.pozdrav span:nth-child(4)  { animation-delay: 0.3s; }
+.pozdrav span:nth-child(5)  { animation-delay: 0.4s; }
+.pozdrav span:nth-child(6)  { animation-delay: 0.5s; }
+.pozdrav span:nth-child(7)  { animation-delay: 0.6s; }
+.pozdrav span:nth-child(8)  { animation-delay: 0.7s; }
+.pozdrav span:nth-child(9)  { animation-delay: 0.8s; }
+.pozdrav span:nth-child(10) { animation-delay: 0.9s; }
 
 @keyframes rotiranje {
     0% {
@@ -78,4 +78,5 @@ body {
 .gumb:hover {
     background: #7cd4fc;
 }
+
 
